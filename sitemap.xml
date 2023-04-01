@@ -2,7 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rooyca.github.io/es/tags/apol%C3%ADneo/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rooyca.github.io/es/articles/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/dionis%C3%ADaco/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/filosof%C3%ADa/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/articles/apolinio_dionisiaco_nietzsche/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/nietzsche/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/cloudflare/</loc>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/articles/cloudflare_url_shortener/</loc>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/url-shortener/</loc>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/ensamblador/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/picoctf/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/articles/picoctf_asm2/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/writeup/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/dominio/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/articles/correos_desde_gmail_con_dominio_propio/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/gmail/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/articles/wordpress_cloud/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/base-de-datos/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/google-cloud/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/migraci%C3%B3n/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/php/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/wordpress/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/blockchain/</loc>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/ipfs/</loc>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/articles/compartir_archivos_ipfs/</loc>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/articles/esteganografia_basica/</loc>
+    <lastmod>2021-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/linux/</loc>
+    <lastmod>2021-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/steganography/</loc>
+    <lastmod>2021-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/api/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/articles/flask_basic_api/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/flask/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/articles/linux_comands/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rooyca.github.io/es/categories/</loc>
   </url><url>
@@ -10,16 +110,10 @@
   </url><url>
     <loc>https://rooyca.github.io/es/projects/kavita/</loc>
   </url><url>
-    <loc>https://rooyca.github.io/es/articles/apolinio_dionisiaco_nietzsche/</loc>
-  </url><url>
     <loc>https://rooyca.github.io/es/projects/memos/</loc>
   </url><url>
     <loc>https://rooyca.github.io/es/projects/pingvin/</loc>
   </url><url>
     <loc>https://rooyca.github.io/es/projects/</loc>
-  </url><url>
-    <loc>https://rooyca.github.io/es/</loc>
-  </url><url>
-    <loc>https://rooyca.github.io/es/tags/</loc>
   </url>
 </urlset>
