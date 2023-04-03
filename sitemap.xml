@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rooyca.github.io/es/tags/apol%C3%ADneo/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rooyca.github.io/es/articles/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/articles/radio_project_primera_parte/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/gratis/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/musica/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/radio/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/tags/apol%C3%ADneo/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rooyca.github.io/es/tags/dionis%C3%ADaco/</loc>
@@ -21,12 +39,6 @@
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rooyca.github.io/es/projects/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rooyca.github.io/es/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rooyca.github.io/es/tags/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rooyca.github.io/es/projects/vc_radio/</loc>
