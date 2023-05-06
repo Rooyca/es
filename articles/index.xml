@@ -5,7 +5,17 @@
     <link>https://rooyca.github.io/es/articles/</link>
     <description>Recent content in Artículos on rooyca</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rooyca.github.io/es/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rooyca.github.io/es/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pi-hole para Android - [ROOT]</title>
+      <link>https://rooyca.github.io/es/articles/pihole_android/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooyca.github.io/es/articles/pihole_android/</guid>
+      <description>Post original: Aquí Nota: No hay ningún respaldo o asociación entre esta página y Pi-hole© LLC. Si encuentras esto útil, ellos merecen tu apoyo.
+Pi-hole es una aplicación para el bloqueo de anuncios y rastreadores para Linux que actúa como un &amp;ldquo;agujero negro&amp;rdquo; de DNS destinado mayoritariamente para el uso en redes privadas. Está diseñado para dispositivos integrados de baja potencia con capacidad de red, enfocándose en la Raspberry Pi como su plataforma de hardware de referencia.</description>
+    </item>
+    
     <item>
       <title>Crear una estacion de radio online 100% Gratis - Radio Project (Parte 1)</title>
       <link>https://rooyca.github.io/es/articles/radio_project_primera_parte/</link>
