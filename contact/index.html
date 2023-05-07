@@ -116,7 +116,7 @@
                     <span class="active">Contactar</span>
                 </a>
             </li>
-            <select onchange="location = this.value">
+            <select onchange="location = this.value" >
               <option value="#">🇪🇸</option>
               <option value="https://rooyca.github.io/en">🇺🇸</option>
             </select>
@@ -128,10 +128,20 @@
                     color: white;
                     font-size: 1.0em;
                     margin-left: 1em;
+                    outline: none;
+
                 }
+
+
                 select:focus {
                     outline: none;
+                    order: none;
+                    background-color: transparent;
                 }
+                option {
+                    background-color: rgb(29 30 32);
+
+                    }
             </style>
         </ul>
     </nav>

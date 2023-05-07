@@ -38,20 +38,11 @@ El dolor implicado en la experiencia dionisíaco, podría decirse, esta en que, 
     </item>
     
     <item>
-      <title>VC - La Villa de la Cancion; Una radio para todxs</title>
+      <title>VC - Una radio para todxs</title>
       <link>https://rooyca.github.io/es/projects/vc_radio/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://rooyca.github.io/es/projects/vc_radio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pingvin - Intercabio de archivos</title>
-      <link>https://rooyca.github.io/es/projects/pingvin/</link>
-      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooyca.github.io/es/projects/pingvin/</guid>
       <description></description>
     </item>
     
@@ -72,15 +63,6 @@ Para este proyecto, al ser algo pequeño, con el plan gratis será más que sufi
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://rooyca.github.io/es/projects/kavita/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>memos - App de Notas</title>
-      <link>https://rooyca.github.io/es/projects/memos/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooyca.github.io/es/projects/memos/</guid>
       <description></description>
     </item>
     
@@ -118,6 +100,24 @@ Creamos nuestra dirección apuntando al Gmail con el que vamos a configurar nues
       <guid>https://rooyca.github.io/es/articles/wordpress_cloud/</guid>
       <description>Creando la Máquina Virtual &amp;ldquo;WordPress es un sistema de gestión de contenidos lanzado el 27 de mayo de 2003, enfocado a la creación de cualquier tipo de página web&amp;rdquo;. Según estas veinte estadísticas sobre WordPress para el 2022 encontramos que WordPress es usado por el 43.2% de todas las páginas en Internet.
 Para poder correr WordPress en Google Cloud (GCloud de ahora en adelante), primeramente debemos crear una máquina virtual con una de las imágenes con las que cuenta GCloud.</description>
+    </item>
+    
+    <item>
+      <title>Finance - Una app sencilla para manejar las finanzas</title>
+      <link>https://rooyca.github.io/es/projects/finance/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooyca.github.io/es/projects/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDF Reader - Un lector de PDFs liviano y estético</title>
+      <link>https://rooyca.github.io/es/projects/portfolio_ankla/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooyca.github.io/es/projects/portfolio_ankla/</guid>
+      <description></description>
     </item>
     
     <item>
