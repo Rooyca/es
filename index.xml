@@ -85,15 +85,6 @@ Para este proyecto, al ser algo pequeño, con el plan gratis será más que sufi
     </item>
     
     <item>
-      <title>Kavita - Mangas, Comics y Libros en un solo lugar</title>
-      <link>https://rooyca.github.io/es/projects/kavita/</link>
-      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://rooyca.github.io/es/projects/kavita/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PicoCTF Writeup – Reverse Engineering (asm2)</title>
       <link>https://rooyca.github.io/es/articles/picoctf_asm2/</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
@@ -139,7 +130,7 @@ Para poder correr WordPress en Google Cloud (GCloud de ahora en adelante), prime
     </item>
     
     <item>
-      <title>PDF Reader - Un lector de PDFs liviano y estético</title>
+      <title>PDF2Slide - Un lector de PDFs liviano y estético</title>
       <link>https://rooyca.github.io/es/projects/portfolio_ankla/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       
