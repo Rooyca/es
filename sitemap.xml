@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rooyca.github.io/es/</loc>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/projects/</loc>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rooyca.github.io/es/projects/rooykup/</loc>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rooyca.github.io/es/tags/android/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rooyca.github.io/es/articles/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rooyca.github.io/es/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rooyca.github.io/es/tags/linux/</loc>
@@ -24,9 +30,6 @@
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rooyca.github.io/es/projects/api_request_obsidian_plugin_n/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rooyca.github.io/es/projects/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rooyca.github.io/es/projects/milibre_personal_library_n/</loc>

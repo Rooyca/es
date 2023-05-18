@@ -5,7 +5,16 @@
     <link>https://rooyca.github.io/es/projects/</link>
     <description>Recent content in Proyectos on blog | rooyca</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rooyca.github.io/es/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rooyca.github.io/es/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rooykup-cli - Backups comprimidos y encriptados en la nube</title>
+      <link>https://rooyca.github.io/es/projects/rooykup/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rooyca.github.io/es/projects/rooykup/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>API Request - Obsidian Plugin</title>
       <link>https://rooyca.github.io/es/projects/api_request_obsidian_plugin_n/</link>
