@@ -5,6 +5,7 @@
     <link>https://rooyca.github.io/es/tags/picoctf/</link>
     <description>Recent content in picoctf on blog | rooyca</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rooyca.github.io/es/tags/picoctf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PicoCTF Writeup – Reverse Engineering (asm2)</title>
